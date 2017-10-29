@@ -42,6 +42,7 @@ Project Participants
 * Derrick
 * David Min
 * Erik Peterson
+* Chris Sherwood
 * Holden Smith
 * Grant Irvin
 * Ryosuke Morino
